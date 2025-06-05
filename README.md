@@ -1,4 +1,4 @@
-# 📁 Project: `Bckend Project`
+# 📁 Project: `Backend Project`
 
 This repository contains the complete backend source code for a Node.js and Express-based application with user authentication and contact management features. It uses **MongoDB** as the database and follows a modular and clean architecture for scalability and maintainability.
 
